@@ -3,14 +3,21 @@ const cors = require('cors')
 const app = express();
 app.use(cors())
 
-const sampleData= require('./data/sampleData.json')
+const coursesName= require('./data/courseCategoryName.json')
+const courseById= require('./data/coursesDetails.json')
 
 app.get('/',(req,res) =>{
     res.send('api is created')
 })
 
-app.get('/sampleData',(req,res)=>{
-    res.send(sampleData)
+app.get('/courseName',(req,res)=>{
+    res.send(coursesName)
+})
+app.get('/courseName/:id',(req,res) =>{
+    const  id= parseInt(req.params.id);
+    // console.log(id)
+    const course = courseById.filter(c=>c.category_id==id)
+  res.send(course)
 })
 
 const port = process.env.PORT || 5000;

@@ -1,0 +1,65 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "courseName": "Computer Science and Technology",
+        "title": "B.Sc Honours",
+        "price": "4000$",
+        "img": "https://dept.jnu.ac.bd/assets/slider/50.jpg",
+        "courseDetails":"Computer Science and Engineering was established in the year 1994. The primary goal of CSE is to provide best IT infrastructure, world class learning & research environment, adopt industry practices through industry collaborations and inculcate moral and ethical values. The department is accredited by NBA."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "category_id": "02",
+        "courseName": "Electrical & Electronic",
+        "title": "B.Sc Honours",
+        "price": "4000$",
+        "img": "https://www.eee.hku.hk/wp-content/uploads/2015/06/shutterstock_113294155.jpg",
+        "courseDetails":"The European Economic Community (EEC) was a regional organisation created by the Treaty of Rome of 1957, aiming to foster economic integration among its member states. It was subsequently renamed the European Community (EC) upon becoming integrated into the first pillar of the newly formed European Union in 1993."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+        "category_id": "04",
+        "courseName": "Modern Technologies",
+        "title": "B.Sc Honours",
+        "price": "4000$",
+        "img": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2102/6529920/1000w_q95.jpg",
+        "courseDetails":"Modern technology allows machines to become more and more complex, and manual-control tasks can mostly be automated. Modern airplanes are popular examples of this. There is a certain irony in such automation which should not be overlooked."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+        "category_id": "05",
+        "courseName": "Modern Languages",
+        "title": "B.Sc Honours",
+        "price": "4000$",
+        "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg",
+        "courseDetails":"Modern Languages is the study of two or more languages and their histories, societies, politics and cultures. You'll develop your speaking, reading, listening and writing skills and may even have the chance to learn something new like Arabic or Mandarin at beginner level."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+        "category_id": "06",
+        "courseName": "Chemical Engineering",
+        "title": "B.Sc Honours",
+        "price": "4000$",
+        "img":"https://www.monash.edu/__data/assets/image/0005/2699996/why-chemical-biological-engineering.jpg",
+        "courseDetails":"Chemical engineering involves the production and manufacturing of products through chemical processes. This includes designing equipment, systems, and processes for refining raw materials and for mixing, compounding, and processing chemicals."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+        "category_id": "03",
+        "courseName": "Development Studies",
+        "title": "BBA Honours",
+        "price": "4000$",
+        "img": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/07/09201412/Development-Studies.jpg",
+        "courseDetails":"The Department of Development Studies was established in the year 2000 to provide challenging and innovative teaching in the field of development studies, a rapidly growing area of study concerned with the people, economy and society."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6i",
+        "category_id": "07",
+        "courseName": "Software Engineering",
+        "title": "B.Sc Honours",
+        "price": "4000$",
+        "img": "https://wallpaperaccess.com/full/4391662.jpg",
+        "courseDetails":"Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users."
+    }
+]
