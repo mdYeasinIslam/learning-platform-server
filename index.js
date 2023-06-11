@@ -15,7 +15,6 @@ app.get('/courseName',(req,res)=>{
 })
 app.get('/courseName/:id',(req,res) =>{
     const  id= parseInt(req.params.id);
-    console.log(req.params.category_id)
     const course = courseById.filter(c=>c.category_id==id)
   res.send(course)
 })
